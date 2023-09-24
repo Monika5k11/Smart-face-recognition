@@ -1,4 +1,5 @@
 # Smart-face-recognition
+Smart Face Recognition is a real-time web application to detect faces from uploaded photos.
 1. Clone this repo
 2. Run `npm install`
 3. Run `npm start`
